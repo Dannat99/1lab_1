@@ -29,7 +29,7 @@
     "webpack-cli": "^3.3.4"
   },
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "webpack": "^4.34.0"
   },
   "repository": {
